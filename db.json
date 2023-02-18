@@ -1,45 +1,7 @@
 {
-    "chRps": "2021RPS10000652209",
-    "rps": {
-        "identificacao": {
-            "serie": "1",
-            "numero": "569916",
-            "tipoRps": "1",
-            "dataEmissao": "2021-06-25",
-            "competencia": "2021-06-25"
-        },
-        "tomador": {
-            "cpf": "94183197058",
-            "razaoSocial": "TESTE DE TESTE",
-            "endereco": {
-                "logradouro": "JOSE SOARES PINHEIRO",
-                "numero": "1191",
-                "bairro": "LOMANTO JUNIOR",
-                "codigoMunicipio": "2914802",
-                "codigoPais": "1058",
-                "uf": "BA",
-                "cep": "45600013"
-            },
-            "contato": {
-                "telefone": "12345678",
-                "email": "TESTE@TESTE.com.br"
-            }
-        },
-        "servico": {
-            "itemListaServico": "0801",
-            "cnae": "8532500",
-            "codigoTributacaoMunicipio": "0801",
-            "discriminacao": "SERVICO DE EDUCACAO SUPERIOR GRADUACAO",
-            "codigoMunicipioIncidencia": "9999999",
-            "valores": {
-                "totalServicos": 1379.03,
-                "iss": {
-                    "aliquota": 5,
-                    "valor": 58.95,
-                    "retido": false,
-                    "exigibilidadeIss": "1"
-                }
-            }
-        }
-    }
+  "id":3,
+  "product_code":"p345678",
+  "supplier_code":"s9012",
+  "product_name":"Produto C",
+  "available_stock":100
 }
