@@ -1,7 +1,7 @@
-{
+[{
   "id":3,
   "product_code":"p345678",
   "supplier_code":"s9012",
   "product_name":"Produto C",
   "available_stock":100,
-}
+}]
