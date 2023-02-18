@@ -4,11 +4,4 @@
   "supplier_code":"s9012",
   "product_name":"Produto C",
   "available_stock":100,
-  "pendency":false,
-  "average_sales":15,
-  "dde":3,
-  "curve":5,
-  "price":200.0,
-  "ordered_qty":3,
-  "obs":"Observação do Produto C"
 }
