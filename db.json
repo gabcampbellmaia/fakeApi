@@ -1,12 +1,74 @@
 {
    "products": [
      {
-      "id":3,
-      "product_code":"p345678",
-      "supplier_code":"s9012",
-      "product_name":"Produto C",
-      "available_stock":100,
-      "teste": "teste"
-     }
+    id: 1,
+    product_code: 'p123456',
+    supplier_code: 's7890',
+    product_name: 'Produto A',
+    available_stock: 50,
+    pendency: false,
+    average_sales: 10,
+    dde: 2,
+    curve: 3,
+    price: 100.0,
+    ordered_qty: 5,
+    obs: 'Observação do Produto A'
+  },
+  {
+    id: 2,
+    product_code: 'p234567',
+    supplier_code: 's8901',
+    product_name: 'Produto B',
+    available_stock: 20,
+    pendency: true,
+    average_sales: 5,
+    dde: 1,
+    curve: 2,
+    price: 50.0,
+    ordered_qty: 10,
+    obs: 'Observação do Produto B'
+  },
+  {
+    id: 3,
+    product_code: 'p345678',
+    supplier_code: 's9012',
+    product_name: 'Produto C',
+    available_stock: 100,
+    pendency: false,
+    average_sales: 15,
+    dde: 3,
+    curve: 5,
+    price: 200.0,
+    ordered_qty: 3,
+    obs: 'Observação do Produto C'
+  },
+  {
+    id: 4,
+    product_code: 'p456789',
+    supplier_code: 's0123',
+    product_name: 'Produto D',
+    available_stock: 10,
+    pendency: true,
+    average_sales: 2,
+    dde: 4,
+    curve: 4,
+    price: 30.0,
+    ordered_qty: 15,
+    obs: 'Observação do Produto D'
+  },
+  {
+    id: 5,
+    product_code: 'p567890',
+    supplier_code: 's1234',
+    product_name: 'Produto E',
+    available_stock: 80,
+    pendency: false,
+    average_sales: 8,
+    dde: 5,
+    curve: 1,
+    price: 80.0,
+    ordered_qty: 8,
+    obs: 'Observação do Produto E'
+  }
    ]
 }
