@@ -2,6 +2,7 @@
    "products": [
      {
    "id":1,
+   "stock_id":100,
    "product_code":"p123456",
    "supplier_code":"s7890",
    "product_name":"Produto A",
@@ -16,6 +17,7 @@
 },
 {
    "id":2,
+   "stock_id":101,
    "product_code":"p234567",
    "supplier_code":"s8901",
    "product_name":"Produto B",
@@ -30,6 +32,7 @@
 },
 {
    "id":3,
+   "stock_id":102,
    "product_code":"p345678",
    "supplier_code":"s9012",
    "product_name":"Produto C",
@@ -44,6 +47,7 @@
 },
 {
    "id":4,
+   "stock_id":103,
    "product_code":"p456789",
    "supplier_code":"s0123",
    "product_name":"Produto D",
@@ -58,6 +62,7 @@
 },
 {
    "id":5,
+   "stock_id":104,
    "product_code":"p567890",
    "supplier_code":"s1234",
    "product_name":"Produto E",
